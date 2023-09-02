@@ -1,0 +1,92 @@
+.div1{
+  background-color: blue;
+}
+.navdiv{
+  color: white;
+}
+.B1{
+    
+    border: white;
+    background-color: white;
+}
+.H1{
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        text-decoration: none;
+        font-family: sans-serif;
+        font-size: 60px;
+}
+.picpara{
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  /* font-size: 30px; */
+}
+.B2{
+  background-color: white;
+  border-radius: 30px;
+  border: none;
+  padding: 10px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 80%;
+  left: 27%;
+}
+.B3{
+  background-color: black;
+  border-radius: 30px;
+  border: none;
+  padding: 10px 30px;
+  font-size: 20px;
+  /* font-weight: bold; */
+  position: absolute;
+  top: 80%;
+  color: white;
+}
+.textarea1{
+  padding: 40px 120px;
+}
+.textare1{
+  padding: 10px 120px;
+}
+.first{
+  background-color: white;
+}
+.second{
+  background-color: aliceblue;
+}
+.reliableH1{
+    font-weight: bold;
+}
+.reliableP{
+  padding: 10px 200px;
+}
+.B4{
+  background-color: blue;
+  border-radius: 30px;
+  border: none;
+  padding: 13px 30px;
+  font-size: 20px;
+  color: white;
+}
+
+.footdiv2{
+  text-decoration: none;
+}
+.footdiv2 a:hover{
+  text-decoration: underline;
+}
+.b6{
+  border: blue;
+  background-color: blue;
+  color: white;
+  margin-left: 1200px;
+}
